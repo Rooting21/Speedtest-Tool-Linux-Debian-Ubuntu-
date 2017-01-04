@@ -6,7 +6,7 @@ Speedtest Tool für Debian und Ubuntu
 #Download Befehl:
 
 
-wget --no-check-certificate https://raw.githubusercontent.com/Rooting21/Speedtest-Tool-Linux-Debian-Ubuntu-/master/speedtest.sh && ./speedtest.sh start
+wget --no-check-certificate https://raw.githubusercontent.com/Rooting21/Speedtest-Tool-Linux-Debian-Ubuntu-/master/speedtest.sh && chmod 777 speedtest.sh && ./speedtest.sh start
 
 
 
